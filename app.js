@@ -39,6 +39,7 @@ minus.addEventListener("click", () => {
     minus.disabled = false;
   }
   pulus.disabled = false;
+
   title.classList.remove("green-text", "red-text", "yellow-text");
   titl.classList.remove("green-bg", "red-bg");
 
